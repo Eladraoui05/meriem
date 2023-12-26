@@ -1,0 +1,28 @@
+body{
+    background:#84134C;
+}
+.A{
+    text-align: center;
+    border: 1px solid #f8f8f885 ;
+    background-color:#f8f8f885 ;
+    width: 500px;
+    margin-left: 400px;
+    margin-top: 80px;
+    border-radius: 10%;
+}
+input{
+    border: 1px solid #f8f8f885 ;
+    border-radius: 30px;
+    width: 400px;
+    height: 20px;
+}
+textarea{
+    border: 1px solid #f8f8f885 ;
+    border-radius: 10px;
+}
+button{
+    border: 1px solid #f8f8f885 ;
+    border-radius: 10px;
+    width: 200px;
+    background-color: peachpuff;
+}
